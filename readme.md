@@ -1,6 +1,6 @@
-clone it
+Clone it
 
-run: npm install  #To install package.json dependencies
+Run: npm install  #To install package.json dependencies
 
-run: node index.js 
+Run: node index.js 
 
